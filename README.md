@@ -16,6 +16,8 @@ Cette interface permet d'identifier quel niveau de gris correspond à chaque cou
 
 Particulièrement utile pour le choix des couleurs et l'impression des graphiques en niveaux de gris !
 
+Il est possible de choisir les couleurs via une palette complexe ou bien en saisissant leur code hexadécimal.
+
 
 # Membres de l'équipe
 
